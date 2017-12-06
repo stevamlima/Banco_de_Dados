@@ -1,0 +1,10 @@
+c:\Users\47518534819\Desktop\codexp-back\SQL\bin\Debug\netcoreapp2.0\SQL.deps.json
+c:\Users\47518534819\Desktop\codexp-back\SQL\bin\Debug\netcoreapp2.0\SQL.runtimeconfig.json
+c:\Users\47518534819\Desktop\codexp-back\SQL\bin\Debug\netcoreapp2.0\SQL.runtimeconfig.dev.json
+c:\Users\47518534819\Desktop\codexp-back\SQL\bin\Debug\netcoreapp2.0\SQL.dll
+c:\Users\47518534819\Desktop\codexp-back\SQL\bin\Debug\netcoreapp2.0\SQL.pdb
+c:\Users\47518534819\Desktop\codexp-back\SQL\obj\Debug\netcoreapp2.0\SQL.csproj.CoreCompileInputs.cache
+c:\Users\47518534819\Desktop\codexp-back\SQL\obj\Debug\netcoreapp2.0\SQL.AssemblyInfoInputs.cache
+c:\Users\47518534819\Desktop\codexp-back\SQL\obj\Debug\netcoreapp2.0\SQL.AssemblyInfo.cs
+c:\Users\47518534819\Desktop\codexp-back\SQL\obj\Debug\netcoreapp2.0\SQL.dll
+c:\Users\47518534819\Desktop\codexp-back\SQL\obj\Debug\netcoreapp2.0\SQL.pdb
